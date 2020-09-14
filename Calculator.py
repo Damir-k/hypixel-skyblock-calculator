@@ -1,6 +1,3 @@
-import time
-
-
 class Program:
     fuels = {
         #  возможные варианты для параметра fuel
